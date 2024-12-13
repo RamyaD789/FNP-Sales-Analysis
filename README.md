@@ -18,7 +18,7 @@ This project involves analyzing sales data for FNP using Microsoft Excel. Key in
 
 ## Files
 - `FNP_Sales_Analysis.xlsx`: The main project file
-- `FNPSalesAnalysis`: Visual representation of the dashboard
+- `fnp_sales_analysis.png`: Visual representation of the dashboard
 - `README.md`: Project documentation
 
 ## Contact
